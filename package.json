@@ -1,0 +1,13 @@
+{
+  "name": "microbit-live",
+  "version": "1.0.0",
+  "description": "control Planning Center Services LIVE from your BBC Micro Bit",
+  "main": "index.js",
+  "author": "Tim Morgan",
+  "license": "MIT",
+  "dependencies": {
+    "bbc-microbit": "^0.2.0",
+    "prompt": "^1.0.0",
+    "restler": "^3.4.0"
+  }
+}
