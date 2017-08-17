@@ -1,4 +1,4 @@
-Control Planning Center Services LIVE with a micro:bit
+Control [Planning Center Services LIVE](https://planning.center/services/live/) with a [micro:bit](http://microbit.org/).
 
 ![demo](https://raw.githubusercontent.com/seven1m/microbit-services-live/master/vid.gif)
 
