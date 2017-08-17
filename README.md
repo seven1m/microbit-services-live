@@ -1,5 +1,7 @@
 Control Planning Center Services LIVE with a micro:bit
 
+![demo](https://raw.githubusercontent.com/seven1m/microbit-services-live/master/vid.gif)
+
 ## Setup
 
 1.  Clone this repo.
